@@ -11,6 +11,5 @@ response = message_creator(text)
 print(response)
 '''
 
-a = {'1','2'}
-b = {'2','3'}
-print = (a & b)
+result, a, b = sum(1, 2)
+print(result)
